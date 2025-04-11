@@ -23,3 +23,7 @@ Time Machine restoring seems to be currently broken on Sequoia even after uninst
 
 :::
 
+
+********************************************************************************************************************************
+****I did send improvements to this page, that apparently were not published. Did not receive a mail either. Please explain.****
+********************************************************************************************************************************
